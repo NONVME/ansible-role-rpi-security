@@ -1,0 +1,27 @@
+---
+dependencies: []
+
+galaxy_info:
+  role_name: rpi-serurity
+  author: nonvme
+  description: Security software installation and configuration.
+  license: "license (BSD, MIT)"
+  min_ansible_version: 2.10
+  platforms:
+    - name: Debian
+      versions:
+        - all
+    - name: Ubuntu
+      versions:
+        - all
+  galaxy_tags:
+    - system
+    - security
+    - fail2ban
+    - automatic
+    - updates
+    - apt
+    - hardening
+    - raspberry
+    - pi
+    - raspbian
